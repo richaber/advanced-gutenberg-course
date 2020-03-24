@@ -22,4 +22,4 @@ function block_filters( $block_content, $block ) {
 	);
 }
 
-add_filter( 'render_block', __NAMESPACE__ . '\block_filters', 10, 2 );
+// add_filter( 'render_block', __NAMESPACE__ . '\block_filters', 10, 2 );

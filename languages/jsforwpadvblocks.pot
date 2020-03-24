@@ -123,20 +123,24 @@ msgstr ""
 msgid "Show block global settings"
 msgstr ""
 
+#: blocks/04-shoutout-styles/index.js:13
+msgid "Call to action"
+msgstr ""
+
+#: blocks/04-shoutout-styles/index.js:8
+msgid "Shoutout"
+msgstr ""
+
+#: blocks/04-shoutout-styles/index.js:9
+msgid "Example shipping stles"
+msgstr ""
+
+#: blocks/block-styles.js:8
+msgid "Colorful Quote"
+msgstr ""
+
 #: filters/extendCodeBlockDemo.js:56
 msgid "High Contrast"
-msgstr ""
-
-#: filters/registerBlockType.js:19
-msgid "Code Snippet"
-msgstr ""
-
-#: filters/registerBlockType.js:20
-msgid "Use for maximum codiness 😀"
-msgstr ""
-
-#: filters/registerBlockType.js:26
-msgid "mmmkkkkaaaayyy"
 msgstr ""
 
 #: plugins/01-plugin-sidebar-demo/index.js:19
